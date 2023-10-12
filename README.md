@@ -1,5 +1,5 @@
 # ARQUITECTURA DE SOFTWARE
-# Si desea ver el documento en [Notion Haz Clic AQUÍ](https://www.notion.so/ARQUITECTURA-DE-SOFTWARE-bcf2e8acc5b8467e90b72315a3252212?pvs=4)
+# Si desea ver el documento en Notion [Haga Clic AQUÍ](https://www.notion.so/ARQUITECTURA-DE-SOFTWARE-bcf2e8acc5b8467e90b72315a3252212?pvs=4)
 
 # ¿ Que es la Arquitectura de Software ?
 
