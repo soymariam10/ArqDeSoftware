@@ -10,7 +10,7 @@ la arquitectura de software permite que el sistema sea escalable, flexible, conf
 
 existen diversidad de definiciones de arquitectura de software, no podríamos darle una definición en especifico ya que esto abarca el inicio y el final de un software a desarrollar.
 
-![diagram.jpg](ARQUITECTURA%20DE%20SOFTWARE%20bcf2e8acc5b8467e90b72315a3252212/diagram.jpg)
+![diagram.jpg](/img/diagram.jpg)
 
 **algunos puntos clave al momento de desarrollar la arquitectura de software son:  Patrones de diseño, Patrones Arquitectónicos, Componentes, Conexiones, Ciclo de Vida**
 
@@ -102,7 +102,7 @@ Uso típico: Sistemas distribuidos y escalables. |
 
 # Diferencia entre patrones de diseño y patrones arquitectónicos
 
-![diferencia.png](ARQUITECTURA%20DE%20SOFTWARE%20bcf2e8acc5b8467e90b72315a3252212/diferencia.png)
+![diferencia.png](/img/diferencia.png)
 
 > mientras que los patrones de diseño se enfocan en problemas específicos en el diseño detallado de clases y objetos, los patrones arquitectónicos se ocupan de cuestiones más amplias relacionadas con la organización y la estructura general de sistemas de software. Ambos tipos de patrones son valiosos en el desarrollo de software y se utilizan en diferentes etapas del proceso de diseño y desarrollo.
 > 
@@ -168,11 +168,11 @@ Estos estilos arquitectónicos son herramientas conceptuales que los arquitectos
 - **Propósito:** Distribuir la carga de trabajo, mejorar la escalabilidad y la redundancia.
 - **Uso Típico:** Redes de intercambio de archivos, sistemas de mensajería P2P.
 
-![estilo arq.png](ARQUITECTURA%20DE%20SOFTWARE%20bcf2e8acc5b8467e90b72315a3252212/estilo_arq.png)
+![estilo arq.png](/img/estilo_arq.png)
 
 # [Relación entre los patrones de diseño arquitectónicos y estilos arquitectónicos.](https://www.notion.so/ARQUITECTURA-DE-SOFTWARE-bcf2e8acc5b8467e90b72315a3252212?pvs=21)
 
-![relacion entre los tres.png](ARQUITECTURA%20DE%20SOFTWARE%20bcf2e8acc5b8467e90b72315a3252212/relacion_entre_los_tres.png)
+![relacion entre los tres.png](/img/relacion_entre_los_tres.png)
 
 tenemos que los patrones de diseño son el tipo de patrón más específico y que centra en resolver como las clases se crean, estructura, relacionan y se comportan en tiempo de ejecución, por otra parte, los patrones arquitectónicos se enfocan en los componentes y como se relacionan entre sí, finalmente, los estilos arquitectónicos son marcos de referencia mediante los cuales es posible basarse para crear aplicaciones que compartan ciertas características.
 
@@ -231,11 +231,11 @@ Es una característica muy importante cuando estamos diseñando y desarrollando 
 
 **Acoplamiento eferente:** por que A depende de B y de C parta poder realizar su labor, hay una relación entre ellas, puede ser que herede datos, colecciones, clases o métodos.
 
-![eferente.png](ARQUITECTURA%20DE%20SOFTWARE%20bcf2e8acc5b8467e90b72315a3252212/eferente.png)
+![eferente.png](/img/eferente.png)
 
 **Acoplamiento Aferente:** por que D y E depende de A para poder ejecutar su trabajo, ver en mi componente quienes más dependen de él.
 
-![aferente.png](ARQUITECTURA%20DE%20SOFTWARE%20bcf2e8acc5b8467e90b72315a3252212/aferente.png)
+![aferente.png](/img/aferente.png)
 
 | Tipos de Acoplamiento | Definición | Observaciones |
 | --- | --- | --- |
@@ -254,7 +254,7 @@ pocas relaciones entre si para que cada uno se pueda modificar de forma independ
 
 Es una característica muy importante en todas las aplicaciones a diseñar y desarrollar. En términos generales cohesión es, que tan relacionadas están las operaciones, métodos o funciones de un modulo o componente.
 
-![cohesion.png](ARQUITECTURA%20DE%20SOFTWARE%20bcf2e8acc5b8467e90b72315a3252212/cohesion.png)
+![cohesion.png](/img/cohesion.png)
 
 podemos ver una imagen una clase llamada Service y ella tiene cuatro métodos
 
